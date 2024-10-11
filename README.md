@@ -14,4 +14,4 @@ Cuento con experiencia académica en Java y bases de datos en MySQL y PostgreSQL
 
 En el área de bases de datos, he trabajado con MySQL y PostgreSQL en proyectos universitarios. He diseñado y gestionado bases de datos, enfocándome en consultas SQL, optimización y administración de datos. Cada proyecto me ha brindado la oportunidad de consolidar mis conocimientos en desarrollo de software y en el manejo de bases de datos, siempre buscando mejorar y aprender nuevas técnicas.
 <br/>
-ss
+
